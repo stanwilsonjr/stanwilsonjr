@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello I'm Stan,
+
+A developer with a backgrond in design currently focused on product strategy.
+
+
+
+
 
 <!--
 **stanwilsonjr/stanwilsonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
