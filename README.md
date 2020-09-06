@@ -7,6 +7,7 @@ A developer with a background in design currently focused on product strategy.
 
 ### Prototypes for fun
 - [Animal Quiz](https://anml-quiz.netlify.app/) ([Repo](https://github.com/stanwilsonjr/react-quiz-prototype))
+- [] Fibonacci Planner
 
 
 
