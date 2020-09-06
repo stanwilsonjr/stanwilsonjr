@@ -1,13 +1,11 @@
 ### Hello I'm Stan,
 
-A developer with a background in design currently focused on product strategy.
-
-
+A developer with a background in design currently building my product management experience.
 
 
 ### Prototypes for fun
-- [Animal Quiz](https://anml-quiz.netlify.app/) ([Repo](https://github.com/stanwilsonjr/react-quiz-prototype))
-- [] Fibonacci Planner
+- [x] 🦓 [Animal Quiz](https://anml-quiz.netlify.app/) ([Repo](https://github.com/stanwilsonjr/react-quiz-prototype))
+- [ ] 🗓 Fibonacci Planner
 
 
 
