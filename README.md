@@ -6,7 +6,7 @@ A developer with a background in design and product management.
 ### Prototypes for fun
 - [x] [Priority Grid](https://prioritygrid.app/)
 - [x] 🦓 [Animal Quiz](https://anml-quiz.netlify.app/) ([Repo](https://github.com/stanwilsonjr/react-quiz-prototype))
-- [ ] 🗓 [Fibo Spaced Repetition Learning](https://fibo-learning.netlify.app/) ([Repo](https://github.com/stanwilsonjr/fibo))
+- [x] 🗓 [Fibo Spaced Repetition Learning](https://www.fibolearning.app/) 
 
 
 
