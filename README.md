@@ -1,6 +1,6 @@
 ### Hello I'm Stan,
 
-A developer with a background in design and product management.
+A product leader with a background in design and web development.
 
 
 ### Prototypes for fun
