@@ -1,6 +1,8 @@
 ### Hello I'm Stan,
 
 A product leader with a background in design and web development.
+### Blogging at 
+[https://www.stanwilsonjr.com/](https://www.stanwilsonjr.com/)
 
 
 ### Prototypes for fun
