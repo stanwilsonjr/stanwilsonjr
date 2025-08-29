@@ -4,6 +4,7 @@ A product leader with a background in design and web development.
 
 
 ### Prototypes for fun
+- [x] [bartndr.app/](https://bartndr.app/)
 - [x] [Priority Grid](https://prioritygrid.app/)
 - [x] 🦓 [Animal Quiz](https://anml-quiz.netlify.app/) ([Repo](https://github.com/stanwilsonjr/react-quiz-prototype))
 - [x] 🗓 [Fibo Spaced Repetition Learning](https://www.fibolearning.app/) 
